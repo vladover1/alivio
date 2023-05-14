@@ -1,0 +1,11 @@
+*.code*
+*.log
+*.sublime*
+.DS_Store
+.idea
+.vscode
+Thumbs.db
+__MACOS*
+build/
+node_modules/
+npm-debug.*
